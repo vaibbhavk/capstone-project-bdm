@@ -14,9 +14,31 @@ Paper Tiger stationery shop is a B2C business that deals with almost all kinds o
 
 ## Problem Solving Approach
 
-### - Data collection methods to be used
+### Data collection methods to be used
 The owner of the Paper Tiger shop keeps their entire sales record in a notebook.
 They are ready to provide their 6 months of sales records as well as their monthly
 shop expenses.
 After getting the raw data, I will enter the records on a spreadsheet for further
 analysis.
+
+### What data to be collected?
+As they are facing the problem of low profit, the data required is the sales data
+and monthly shop expense data.
+On the sales data, the average cost price as well as the average selling price of each
+item will be given. They are ready to provide their monthly expense records.
+
+### Tools to be used for analysis
+Using the above data, I will make a revenue Pareto to analyze the monthly revenue
+of the shop, and a volume Pareto to look at the month where the sales are high
+volume. A bubble chart of sales to look at what items are contributing to the sales in
+the majority. This would give an insight to the business owner so as to what items to
+stock more or what items to stock less.
+
+## Analysis Steps
+- After entering the data, a new worksheet has been created and the sales data has been
+copied into the worksheet for creating charts. The Revenue Pareto per item has been
+created for each month, to analyze what items are sold most or what items are sold less on
+each month.
+- On another worksheet, the ‘Month’ and ‘Revenue’ columns have been created and the sales
+across all the items have been summed up for each month. The Monthly Revenue Pareto
+has been created, to analyze on which month the sales are less or high.
