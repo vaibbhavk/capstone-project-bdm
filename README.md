@@ -14,7 +14,7 @@ Paper Tiger stationery shop is a B2C business that deals with almost all kinds o
 
 ## Problem Solving Approach
 
-### Data collection methods to be used
+### - Data collection methods to be used
 The owner of the Paper Tiger shop keeps their entire sales record in a notebook.
 They are ready to provide their 6 months of sales records as well as their monthly
 shop expenses.
